@@ -33,7 +33,7 @@ export default function Home() {
                 <Box className="gap-10 base:flex-col sm:flex-row justify-between sm:w-[80%] md:flex-1">
                     <Box className="bg-background-template py-2 px-6 rounded-full items-center flex-column md:flex-row md:self-start">
                         <Text className="text-typography-white text-4xl text-center font-normal">
-                            Høppstudio Deck
+                            Saajan's Deck
                         </Text>
                         <ScrollView>
                             <Box className="flex flex-row flex-wrap gap-6 my-8 justify-between h-full w-full">
